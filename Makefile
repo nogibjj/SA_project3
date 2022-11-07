@@ -6,7 +6,7 @@ test:
 	#python -m pytest -vv query_test.py
 
 format:
-	black *.py
+	#black *.py
 
 lint:
 	#pylint --disable=R,C --ignore-patterns=test_.*?py *.py
