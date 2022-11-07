@@ -3,7 +3,7 @@ install:
 		pip install -r requirements.txt
 
 test:
-	# No python scripts to test
+	python -m pytest -vv query_test.py
 
 format:
 	# black *.py

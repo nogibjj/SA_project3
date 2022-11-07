@@ -1,5 +1,6 @@
 import sqlite3
 import pandas as pd
+import os
 
 #test spotify_songs.db was created and do a test query
 con = sqlite3.connect("spotify_songs.db")
