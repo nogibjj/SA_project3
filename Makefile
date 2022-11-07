@@ -3,13 +3,13 @@ install:
 		pip install -r requirements.txt
 
 test:
-	python -m pytest -vv query_test.py
+	#python -m pytest -vv query_test.py
 
 format:
-	# black *.py
+	black *.py
 
 lint:
-	# No python scripts to lint
+	pylint --disable=R,C --ignore-patterns=test_.*?py *.py
 
 container-lint:
 	docker run --rm -i hadolint/hadolint < Dockerfile
