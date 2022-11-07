@@ -19,7 +19,7 @@ The goal for this project is to create a script that use SQL command to query a 
 
 ## Project Breakdown
 
-![project3](https://user-images.githubusercontent.com/55010363/200214621-cc4e4fc7-882a-49e0-865a-6bf94aaa09ad.png)
+![project3](https://user-images.githubusercontent.com/55010363/200214912-0857b6d5-669f-4cf3-ba3b-69943b203255.png)
 
 ## How to execute queries
 To find the answer to one of these questions: 
