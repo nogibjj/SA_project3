@@ -2,7 +2,7 @@
 
 # Project 3: Query Spotify Popularity Database
 
-The goal for this project is to create a script that use SQL commands to query a database. I will be using SQLite which is a self-contained and fast SQL fatabse engine. It is one of the most used database engines in the world and is built into countless devices and applications that people use every day. With SQLite I will build a database with a table containing data from `songs_normalize.csv` and execute SQL commands on this table to answer some insightful questions.
+The goal for this project is to create a script that use SQL commands to query a database. I will be using SQLite which is a self-contained and fast SQL database engine. It is one of the most used database engines in the world and is built into countless devices and applications that people use every day. With SQLite I will build a database with a table containing data from `songs_normalize.csv` and execute SQL commands on this table to answer some insightful questions.
 
 ## Key Objective of Project
 
@@ -20,6 +20,8 @@ The goal for this project is to create a script that use SQL commands to query a
 ## Project Breakdown
 
 ![project3](https://user-images.githubusercontent.com/55010363/200214912-0857b6d5-669f-4cf3-ba3b-69943b203255.png)
+
+## Dataset Information
 
 ## How to execute queries
 To find the answer to one of these questions: 

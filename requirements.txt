@@ -4,3 +4,4 @@ click
 fastapi
 uvicorn[standard]
 pandas
+black
